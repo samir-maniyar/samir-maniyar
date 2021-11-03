@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samir-maniyar
+- 👋 Hi, I’m samir maniyar
 - 👀 I’m interested in Linux, Networking & Automation
 - 🌱 I’m currently learning Ansible & Virtulization
 - 💞️ I’m looking to collaborate on Linux & Networking
